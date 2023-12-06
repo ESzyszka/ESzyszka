@@ -3,6 +3,9 @@
 - 📍 Tokyo 
 - 🧠 I’m currently working on [Advent of Code](https://github.com/ESzyszka/Advent-of-Code)
 - ✉ Email **ea.szyszka@gmail.com**
+- Languages I speak: 🇵🇱🇩🇪🇬🇧🇫🇷🇪🇸🇯🇵
+- Languages I am learning: 🇰🇷
+
 
 
 <p align="left">
