@@ -20,12 +20,13 @@
     <img width="151" height="188" alt="Canva Design Preview 1" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />
   </a>
   <a href="https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3">
-    <img width="151" height="188" alt="Canva Design Preview 2" src="https://github.com/user-attachments/assets/a8d5c11a-1a53-4d91-8a12-5cef68a836da" />
+    <img width="151" height="188" alt="Canva Design Preview 2" src="https://github.com/user-attachments/assets/b87fb3e8-9632-4fc8-b1fe-f485303bea1f" />
   </a>
   <a href="https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3">
     <img width="151" height="188" alt="Canva Design Preview 3" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />
   </a>
 </p>
+
 
 
 <h3 align="left">Tools </h3>
