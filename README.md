@@ -13,12 +13,12 @@
 </p>
 
 
-<img width="604" height="753" alt="Screenshot 2025-07-24 at 12 08 05" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />
+Past projects
+[<img width="151" height="188" alt="Canva Design Preview" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />](https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3)
 
+[<img width="151" height="188" alt="Canva Design Preview" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />](https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3)
 
-[![Canva Design](https://yourdomain.com/canva-preview.png)](https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3)
-
-[<img width="604" height="753" alt="Canva Design Preview" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />](https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3)
+[<img width="151" height="188" alt="Canva Design Preview" src="https://github.com/user-attachments/assets/952083cb-2a34-4dde-8efe-99e0fa64ceb1" />](https://www.canva.com/design/DAGuF6G1jMA/eluEq83x9vCEi_IPGHh5ZA/view?utm_content=DAGuF6G1jMA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc916771dfd#3)
 
 
 <h3 align="left">Tools </h3>
