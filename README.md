@@ -12,9 +12,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Work examples:</h3>
-[View or edit this Canva design](https://www.canva.com/design/DAGpNLBOqi4/iBfzi-rCClG_-KLrqvkAQg/edit?utm_content=DAGpNLBOqi4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 
 <h3 align="left">Tools </h3>
