@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ewa</h1>
 
-- 📍 Tokyo 
+- 📍 Amsterdam
 - 🧠 I’m currently working on [Advent of Code](https://github.com/ESzyszka/Advent-of-Code)
 - ✉ Email **ea.szyszka@gmail.com**
 - Check my [Scientific Paper publications](https://dl.acm.org/profile/99660103949)
