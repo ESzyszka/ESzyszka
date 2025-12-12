@@ -27,7 +27,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.youtube.com/watch?v=hh5qtPKJwmM">
     <img src="https://img.youtube.com/vi/hh5qtPKJwmM/mqdefault.jpg" width="31%" />
   </a>
