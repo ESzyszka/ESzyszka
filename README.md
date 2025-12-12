@@ -29,10 +29,10 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hh5qtPKJwmM">
-    <img src="https://img.youtube.com/vi/hh5qtPKJwmM/0.jpg" width="45%" />
+    <img src="https://img.youtube.com/vi/hh5qtPKJwmM/mqdefault.jpg" width="31%" />
   </a>
   <a href="https://www.youtube.com/watch?v=-JFBv_1xUJc">
-    <img src="https://img.youtube.com/vi/-JFBv_1xUJc/0.jpg" width="45%" />
+    <img src="https://img.youtube.com/vi/-JFBv_1xUJc/mqdefault.jpg" width="31%" />
   </a>
 </p>
 
