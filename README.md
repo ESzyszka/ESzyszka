@@ -2,7 +2,6 @@
 
 - 📍 Amsterdam, NL
 - 🧠 I’m currently working on [Advent of Code](https://github.com/ESzyszka/Advent-of-Code)
-- ✉ Email **ea.szyszka@gmail.com**
 - Check my [Scientific Paper publications](https://dl.acm.org/profile/99660103949)
 - Languages I speak: 🇵🇱(C2)🇬🇧(C2)🇩🇪(C1)🇫🇷(B2)🇪🇸(B2)🇯🇵(JLPTN2)🇰🇷(TOPIK 3급)
 - AI finder: https://tech-finder-nexus.lovable.app/
